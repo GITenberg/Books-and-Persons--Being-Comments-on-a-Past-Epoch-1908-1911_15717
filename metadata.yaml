@@ -1,0 +1,50 @@
+_repo: Books-and-Persons--Being-Comments-on-a-Past-Epoch-1908-1911_15717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: Cover -- Contents.
+gutenberg_issued: '2005-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Modern -- History and criticism'
+tableOfContents: Wilfred Whitten's prose -- Ugliness in fiction -- Letters of Queen
+  Victoria -- French publishers -- Wordsworth's single lines -- Novelists and agents
+  -- The novel of the season -- German expansion -- The book-buyer -- Joseph Conrad
+  and the Athenæum -- The professors -- Mrs. Humphry Ward's heroines -- W.W. Jacobs
+  and Aristophanes -- Kenneth Grahame -- Anatole France -- Intimations of immortality
+  -- Mallarmé, Bazin, Swinburne -- The ruined season -- "Ecce homo" -- Henry Ospovat
+  -- French and British academies -- Poe and the short story -- Middle-class -- The
+  potential public -- H.G. Wells -- Tchehkoff -- The Surrey labourer -- Swinburne
+  -- The Sevenpennies -- Meredith -- St. John Hankin -- Unclean books -- Trollope's
+  methods -- Chesterton and Lucas -- Official recognition of poetry -- Artists and
+  critics -- Rudyard Kipling -- Censorship by the libraries [1909] -- Censorship by
+  the libraries [1910] -- Brieux -- C.E. Montague -- Publishers and authors -- Tourgeniev
+  and Dostoievsky -- John Galsworthy -- Suppressions in "De Profundis" -- Holiday
+  reading -- The British Academy of Letters -- Unfinished perusals -- Mr. A.C. Benson
+  -- The literary periodical -- The length of novels -- Artists and money -- Henri
+  Becque -- Henry James -- English literary criticism -- Mrs. Elinor Glyn -- W.H.
+  Hudson -- Neo-impressionism and literature -- Books of the year -- "The new Machiavelli"
+  -- Success in journalism -- Marguerite Audoux -- John Masefield -- Lectures and
+  state performances -- A play of Tchehkoff's -- Sea and slaughter -- A book in a
+  railway accident -- "Fiction" and "literature."
+title: Books and Persons; Being Comments on a Past Epoch, 1908-1911
+url: http://www.gutenberg.org/ebooks/15717
